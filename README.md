@@ -8,7 +8,7 @@
 
 ##### Relevant Reading
 
-[A Digital Biomarker for Identifying Changes in Daily Activity Patterns](https://www.medrxiv.org/content/10.1101/2022.10.25.22281467v1.full.pdf)
+[A Digital Biomarker for Identifying Changes in Daily Activity Patterns](https://www.medrxiv.org/content/10.1101/2022.10.25.22281467v2.full.pdf)
 
 [Designing A Clinically Applicable Deep Recurrent Model to Identify Neuropsychiatric Symptoms in People Living with Dementia Using In-Home Monitoring Data](https://arxiv.org/abs/2110.09868)
 
